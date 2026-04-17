@@ -3,7 +3,7 @@
 # ============================================================================
 # SVG Color Converter for Dolphin
 #
-# Autor:        Ney Designer (com assistência de IA)
+# Autor:        chiefmodoc
 # Versão:       2.0 (Melhorias: case-insensitive e remoção de '#')
 # Licença:      Uso livre
 # Descrição:    Script interativo para substituir cores em arquivos SVG.
